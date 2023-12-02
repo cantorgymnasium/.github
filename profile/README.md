@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey 👋
+
+Wir sind das Georg-Cantor-Gymnasium, eine MINT-Schule in Halle (Saale), Sachsen-Anhalt. Dieses Profil ist vor allem für unsere interne IT gedacht.
+
+- [Status](https://github.com/cantorgymnasium/status)
 
 <!--
 
